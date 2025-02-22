@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0dbbd11ff00f35140a1a95b8a3db7064, type: 3}
+  m_Name: Element_00_Berries
+  m_EditorClassIdentifier: 
+  m_elementName: Berries
+  m_generatingCurrency: {fileID: 11400000, guid: f22301d85fc0c4e4abe16b3338bce452, type: 2}
+  m_upgradeCurrency: {fileID: 11400000, guid: f22301d85fc0c4e4abe16b3338bce452, type: 2}
+  m_baseUpgradeCost: 1
+  m_baseGenerationValue: 1
+  m_baseGenerationTime: 0.5
