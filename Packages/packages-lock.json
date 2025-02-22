@@ -345,6 +345,12 @@
       },
       "url": "https://packages.unity.com"
     },
+    "com.wm.tycoon-system": {
+      "version": "file:com.wm.tycoon-system",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.modules.accessibility": {
       "version": "1.0.0",
       "depth": 0,

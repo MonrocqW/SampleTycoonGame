@@ -1,0 +1,3 @@
+[submodule "Packages/com.wm.tycoon-system"]
+	path = Packages/com.wm.tycoon-system
+	url = git@github.com:MonrocqW/TycoonSystem.git
